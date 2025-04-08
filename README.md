@@ -1,6 +1,3 @@
-markdown
-Copy
-Edit
 # 🔁 push_swap
 
 ## 🧠 What is this?
